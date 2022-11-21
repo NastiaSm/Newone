@@ -1,0 +1,33 @@
+body {
+
+    background-color: #2048be;
+    
+    font-size: 100%;
+    
+    font-family: Arial, Verdana, sans-serif;
+    
+    text-align: center;
+   
+    
+    }
+    
+    P {
+    
+    padding-left: 20px;
+    cursor: progress;
+    
+    }
+    .table
+    {
+        display: flex;
+        justify-content: center;
+        border:none;
+        color: rgb(243, 248, 246);
+        margin-bottom: 50px;
+        cursor:grab;
+    }
+    tr
+    {
+        border-color: black;
+    }
+    
